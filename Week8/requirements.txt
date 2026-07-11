@@ -1,6 +1,0 @@
-jupyter
-pandas
-numpy
-langchain
-openai
-python-dotenv
